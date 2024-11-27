@@ -50,7 +50,7 @@ tail follow: tail -f
 tail
 tea append: tee -a
 tea: tee
-touch
+dot
 translate delete: tr -d
 translate: tr
 true

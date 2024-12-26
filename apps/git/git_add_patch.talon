@@ -14,6 +14,6 @@ quench:
 drum:
     key(d)
     key(enter)
-air:
+alpha:
     key(a)
     key(enter)
